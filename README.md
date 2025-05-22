@@ -11,7 +11,6 @@ Welcome to my Month 1 learning journey in Python! This repository includes *Hand
 ### 🛠 Hands-On Tasks
 - ✅ Temperature Converter  
 - ✅ Basic Calculator  
-- ✅ Loops & Conditionals Practice  
 
 ### 🎯 Client Project: *Average Temperature Analyzer*
 - ➕ Accepts multiple temperature inputs  
