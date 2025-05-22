@@ -2,7 +2,7 @@
 
 # 📘 Month 1: Python Basics & Data Manipulation
 
-Welcome to my Month 1 learning journey in Python! This repository includes *Hands-On Tasks* and *Client Projects* from 4 weekly modules. All theoretical notes are documented separately in a Word file (/Theory/Month1_Python_Theory.docx).
+Welcome to my Month 1 learning journey in Python! This repository includes *Hands-On Tasks* and *Client Projects* from 4 weekly modules. All theoretical notes are documented separately in a Word file.
 
 ---
 
